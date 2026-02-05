@@ -106,7 +106,7 @@ acc1=Bank(2000,12345)
 print(acc1.bal)
 acc1.debit()
 acc1.credit()
-
+print("Succesfully finished")
 #output2
 # 2000
 # Amout to be debited 1200
